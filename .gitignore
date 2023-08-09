@@ -16,3 +16,4 @@ build
 dist
 htmlcov
 Pipfile.lock
+coverage.xml

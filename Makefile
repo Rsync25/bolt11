@@ -19,4 +19,4 @@ pylint:
 	poetry run pylint bolt11
 
 test:
-	poetry run pytest tests
+	poetry run pytest
